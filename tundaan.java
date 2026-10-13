@@ -14,7 +14,7 @@ class Ticket {
     }
 }
 
-public class dagunlay {
+public class tundaan {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
